@@ -1,0 +1,133 @@
+attributeId,attributeName
+1,Area Planted
+4,Area Harvested
+5,Catch For Reduction
+6,Cows In Milk
+7,Crush
+10,Total Grape Crush
+13,Deliv. To Processors
+16,Total Trees
+17,Bearing Trees
+19,Non-Bearing Trees
+20,Beginning Stocks
+22,Sow Beginning Stocks
+23,Dairy Cows Beg. Stocks
+24,Begin Stock (Ctrl App)
+25,Beef Cows Beg. Stocks
+26,Begin Stock (Other)
+28,Production
+29,Arabica Production
+30,Beet Sugar Production
+31,Commercial Production
+32,Cows Milk Production
+33,Farm Sales Weight Prod
+34,Filter Production
+40,Prod. from Wine Grapes
+43,Cane Sugar Production
+47,Non-Comm. Production
+48,Non-Filter Production
+49,Other Milk Production
+51,Prod. from Tabl Grapes
+53,Robusta Production
+54,Rough Production
+56,Other Production
+57,Imports
+58,Bean Imports
+62,Intra-EU Imports
+63,MY Imp. from U.S.
+64,Raw Imports
+65,U.S. Leaf Imports
+70,MY Imp. from EU
+71,Other Imports
+74,Refined Imp.(Raw Val)
+75,Roast & Ground Imports
+78,CY Imports
+81,TY Imports
+82,Soluble Imports
+83,CY Imp. from U.S.
+84,TY Imp. from U.S.
+86,Total Supply
+87,CY Exp. to U.S.
+88,Exports
+89,Raw Exports
+90,Bean Exports
+94,Intra EU Exports
+95,Intra-EU Exports
+97,MY Exp. to EU
+99,Refined Exp.(Raw Val)
+104,Other Exports
+107,Roast & Ground Exports
+110,CY Exports
+113,TY Exports
+114,Soluble Exports
+116,Slaughter (Reference)
+117,Total Slaughter
+118,Cow Slaughter
+120,Inventory (Reference)
+121,Sow Slaughter
+122,Calf Slaughter
+124,Other Slaughter
+125,Domestic Consumption
+126,Total Disappearance
+128,Dom. Leaf Consumption
+129,Dom.Consump(Cntrl App)
+130,Feed Dom. Consumption
+131,Fluid Use Dom. Consum.
+132,For Processing
+133,Fresh Dom. Consumption
+135,Fresh Dom. Consumption
+138,Human Consumption
+139,Human Dom. Consumption
+140,Industrial Dom. Cons.
+141,"Rst,Ground Dom. Consum"
+142,Domestic Use
+143,Utilization for Sugar
+145,Dom.Consump(Other)
+147,Factory Use Consum.
+149,Food Use Dom. Cons.
+150,Loss
+151,Other Disappearance
+152,"Other Use, Losses"
+154,Soluble Dom. Cons.
+155,U.S. Leaf Dom. Cons.
+157,Utilizatn for Alcohol
+158,Feed Use Dom. Consum.
+161,Feed Waste Dom. Cons.
+167,Other Foreign Cons.
+169,Withdrawal From Market
+172,Loss and Residual
+173,Total Disappearance
+174,Total Use
+175,Total Utilization
+176,Ending Stocks
+177,End Stocks (Cntrl App)
+178,Total Distribution
+179,End Stocks (Other)
+181,"Extr. Rate, 999.9999"
+182,Milling Rate (.9999)
+183,Seed to Lint Ratio
+184,Yield
+192,FSI Consumption
+194,SME
+195,Stocks-to-Use
+196,Exportable Production
+198,Balance
+199,Inventory Balance
+200,Inventory Change
+201,Import Change
+202,Export Change
+203,Consumption Change
+204,Production Change
+205,Sow Change
+206,Cow Change
+207,Production to Cows
+208,Production to Sows
+209,Slaughter to Inventory
+210,Weights
+211,Population
+212,Per Capita Consumption
+213,Slaughter to Total Supply
+214,Imports Percent Consumption
+215,Exports Percent Production
+220,Annual % Change Per Cap. Cons.
+223,Stocks to Use (Months)
